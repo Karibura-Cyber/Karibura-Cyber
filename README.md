@@ -5,12 +5,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=karibura-cyber&theme=radical"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karibura-cyber&layout=compact">
 <br><br><hr> 
-<br><br><br><br>
-<h1>💎My Favorite Repo:</h1>
-<hr>
-<br>
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=python-json-login-system">
-<br><br><br><br><br><br><hr>
+<br><br><br><br><hr>
 
 
 <h3 align="left">📡Connect with me:</h3>

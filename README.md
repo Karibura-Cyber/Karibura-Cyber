@@ -18,4 +18,4 @@
 <h3 align="left">☕Support:</h3>
 <p><a href="https://www.buymeacoffee.com/karibura"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="karibura" /></a>
 <a href="https://www.ko-fi.com/karibura"> <img src="https://raw.githubusercontent.com/Karibura-Cyber/Karibura-Cyber/74e719c4316f8742db22fc5fb70fffa81cd08d50/assets/ko-fi.svg" height="50" width="210" alt="karibura"/></a>
-<a href="https://www.ko-fi.com/karibura"> <img src="https://raw.githubusercontent.com/Karibura-Cyber/Karibura-Cyber/10a5d430d2a9bdffb75c60a3dd4cce57613e5da8/assets/paypal.svg" height="50" width="210" alt="karibura"/></a></p><hr><br><br><br><br><br>
+<a href="https://www.paypal.me/evoloiot"> <img src="https://raw.githubusercontent.com/Karibura-Cyber/Karibura-Cyber/10a5d430d2a9bdffb75c60a3dd4cce57613e5da8/assets/paypal.svg" height="50" width="210" alt="karibura"/></a></p><hr><br><br><br><br><br>

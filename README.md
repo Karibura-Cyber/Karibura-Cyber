@@ -12,8 +12,7 @@
 <br><br><hr>
 <h1>📊My stat:</h1>
 <br>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=karibura-cyber&theme=radical"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karibura-cyber&layout=compact">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=karibura-cyber&theme=radical"/>
 <br><br><br><br><br><br>
 
 <h3 align="left">☕Support:</h3>

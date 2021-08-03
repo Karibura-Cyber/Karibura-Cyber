@@ -4,7 +4,7 @@
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=karibura-cyber&theme=radical"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karibura-cyber&layout=compact">
-<br><br><br><br><br><br><hr>
+<br><br><br><br><br><br>
 
 
 <h3 align="left">📡Connect with me:</h3>

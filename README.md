@@ -13,6 +13,8 @@
 <h1>📊My stat:</h1>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karibura-cyber&theme=radical"/>
+<br>
+<h1> My Favorite Repo</h1>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=Python-Json-Flask-Login"/>
 <br><br><br>
 

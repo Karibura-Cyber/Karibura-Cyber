@@ -16,8 +16,8 @@
 <br>
 <h1> My Favorite Repo</h1>
 <a href="https://github.com/Karibura-Cyber/Python-Json-Flask-Login">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=Python-Json-Flask-Login"/><br>
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=Python-Json-Flask-Login"/>
+</a><br>
 <a href="https://github.com/Karibura-Cyber/python-json-login-system">
 <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=python-json-login-system"/>
 </a>

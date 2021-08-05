@@ -15,7 +15,7 @@
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karibura-cyber&theme=radical"/>
 <br>
-<h1> My Favorite Repo</h1>
+<h1>💾My Favorite Repo</h1>
 <a href="https://github.com/Karibura-Cyber/Python-Json-Flask-Login">
 <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=Python-Json-Flask-Login"/>
 </a>

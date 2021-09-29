@@ -17,12 +17,12 @@
 <br>
 <h1>💾My Favorite Repo</h1>
 <a href="https://github.com/Karibura-Cyber/Python-Json-Flask-Login">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=Flask-JSON-Login"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=karibura-cyber&repo=Flask-JSON-Login"/>
 </a>
-<a href="https://github.com/Karibura-Cyber/python-json-login-system">
+<!--<a href="https://github.com/Karibura-Cyber/python-json-login-system">
 <img align="right" src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/230182547_191693296344271_9106502155773650204_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=LhN_m1XEyQMAX-spb24&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-2.fna&oh=8c08a4e0550d4cbc98bdd3ced549bb63&oe=615B1FEF"/>
-</a>
-</a><br>
+</a>-->
+<br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 

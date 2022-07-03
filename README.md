@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meck (Karibura)</h1>
 <hr><br><br>
+<h3 align="left">✈ IVAO ATC STATUS:</h3>
+<img src="https://status.ivao.aero/686102.png">
 <h3 align="left">📡Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mchawalwit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mchawalwit" height="30" width="40" /></a>

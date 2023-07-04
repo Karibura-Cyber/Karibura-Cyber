@@ -27,8 +27,17 @@
 <br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
-
 <h3 align="left">Contact:</h3>
 <p>Email: meck22772@gmail.com</p><br>
 <p>Discord: Meck#1155</p>
 <hr><br><br><br><br><br>
+<p>Donate SATS</p>
+<lightning-widget 
+  name="Karibura" 
+  accent="#474747" 
+  to="proudengine86@walletofsatoshi.com" 
+  image="https://avatars.githubusercontent.com/u/76256502?v=4" 
+  amounts="1,10,100,1000,10000"
+/>
+<script src="https://embed.twentyuno.net/js/app.js"></script>
+<hr>

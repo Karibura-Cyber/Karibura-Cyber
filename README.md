@@ -1,3 +1,5 @@
+<html>
+  <body>
 <h1 align="center">Hi 👋, I'm Meck (Karibura)</h1>
 <hr><br><br>
 <h3 align="left">✈ IVAO ATC STATUS:</h3>
@@ -41,3 +43,5 @@
 />
 <script src="https://embed.twentyuno.net/js/app.js"></script>
 <hr>
+  </body>
+</html>

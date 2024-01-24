@@ -30,7 +30,7 @@
 <h1>Certificate</h1>
 <a href="https://mikrotik.com/training/certificates/c282480cb0d2bef3b904"><img src="https://academyxperts.com/wp-content/uploads/2022/08/Certificacion-MIkroTik-MTCNA-logo-2022-2.png" width="20%"></a><hr>
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br>
 <h3 align="left">Contact:</h3>
 <p>Email: meck22772@gmail.com</p><br>
 <p>Discord: Meck#1155</p>

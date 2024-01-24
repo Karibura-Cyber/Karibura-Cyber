@@ -26,7 +26,9 @@
 <!--<a href="https://github.com/Karibura-Cyber/python-json-login-system">
 <img align="right" src="https://scontent.fbkk6-2.fna.fbcdn.net/v/t1.15752-9/230182547_191693296344271_9106502155773650204_n.png?_nc_cat=109&ccb=1-5&_nc_sid=ae9488&_nc_ohc=LhN_m1XEyQMAX-spb24&tn=6hU7arYck_OOlEOT&_nc_ht=scontent.fbkk6-2.fna&oh=8c08a4e0550d4cbc98bdd3ced549bb63&oe=615B1FEF"/>
 </a>-->
-<br>
+<br><hr>
+<h1>Certificate</h1>
+<a href="https://mikrotik.com/training/certificates/c282480cb0d2bef3b904"><img src="https://academyxperts.com/wp-content/uploads/2022/08/Certificacion-MIkroTik-MTCNA-logo-2022-2.png" width="20%"></a><hr>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <h3 align="left">Contact:</h3>

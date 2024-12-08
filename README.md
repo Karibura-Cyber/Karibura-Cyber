@@ -32,10 +32,10 @@
 
 <br><br>
 <h3 align="left">Contact:</h3>
-<p>Email: meck22772@gmail.com</p><br>
-<p>Email: chawanwit.akarajirathanachot@gmail.com</p><br><br>
+<p>Email: meck22772@gmail.com</p>
+<p>Email: chawanwit.akarajirathanachot@gmail.com</p><br>
 <h3 align="left">NOSTR:</h3>
-<p>karibura@siamstr.com</p>
+<p>karibura@siamstr.com</p><br>
 <p>Discord: Meck#1155</p>
 <hr><br><br><br><br><br>
   </body>

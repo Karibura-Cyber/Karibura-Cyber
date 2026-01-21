@@ -44,18 +44,6 @@ My work bridges software development and robotics, focusing on reliable systems,
 
 ---
 
-## Projects
-
-**Web Development**
-Backend-focused web applications emphasizing maintainability and clean API design.
-
-**Robotics & Automation**
-Robotic programming and automation projects for training and experimentation.
-
-Repositories: [https://github.com/karibura-cyber](https://github.com/karibura-cyber)
-
----
-
 ## GitHub Statistics
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=karibura-cyber)](https://github.com/anuraghazra/github-readme-stats)
